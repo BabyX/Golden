@@ -6,6 +6,11 @@ They are on Github so [James][] and [Drew][] can tweak the mix and add other lay
 So if you would like to help us mix, just send a Pull Request :smile: 
 
 
+Latest Mix
+----------
+
+You can download the latest mix as an MP3 [here](http://babyx.github.io/Mixes/Golden.mp3)
+
 
 Opening the Project
 -------------------
