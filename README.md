@@ -39,3 +39,14 @@ Once you have cloned the repo.  Open up the `Golden.aup` file in [Audacity][] an
 [Baby X]: http://baby-x.com
 [git]: http://rogerdudler.github.io/git-guide/ "Like Dropbox but a billion times better!"
 [Audacity]: http://audacity.sourceforge.net/download/ "Recordng Software"
+
+
+Roadmap
+-------
+
+- [ ] Drums
+- [ ] Harmonies
+- [ ] Noise Removal
+- [ ] Mixing
+- [ ] Actual Bass
+- [ ] Redo `Gtr (Chords)` Track
