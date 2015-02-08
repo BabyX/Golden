@@ -31,6 +31,10 @@ But you do not have any rights to sell or distribute any derivation of this work
 If you feel your derivation is sufficiently different from the original, and you would like to sell or distribute it, 
 contact us.
 
+Exporting a `.wav`
+-----------------
+
+Once you have cloned the repo.  Open it up the `.aup` file in [Audacity][] and go to `File > Export`
 
 [James]: https://twitter.com/james_a_forbes  "James Forbes"
 [Drew]: https://twitter.com/JimBombony  "Drew Courtney"
