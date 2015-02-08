@@ -50,3 +50,4 @@ Roadmap
 - [ ] Mixing
 - [ ] Actual Bass
 - [ ] Redo `Gtr (Chords)` Track
+- [ ] Redo second Vox (Lead) track to avoid clipping
