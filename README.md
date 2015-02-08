@@ -1,6 +1,6 @@
 # Golden by Baby X
 
-This is the project files for a recording of _Golden_, a song written by James Forbes and arranged by [Baby X][]
+This is the project files for a recording of _Golden_, a song written by [James][] Forbes and arranged by [Baby X][]
 
 They are on Github so [James][] and [Drew][] can tweak the mix and add other layers collaboratively.  But this repo is public.
 So if you would like to help us mix, just send a Pull Request :smile: 
