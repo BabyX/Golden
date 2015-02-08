@@ -11,6 +11,11 @@ Latest Mix
 
 You can download the latest mix as an MP3 [here](http://babyx.github.io/Mixes/Golden.mp3)
 
+Lyrics
+------
+
+You can download the lyrics [here](https://github.com/BabyX/lyrics/blob/master/Golden.md)
+
 
 Opening the Project
 -------------------
