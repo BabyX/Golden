@@ -51,8 +51,8 @@ Roadmap
 
 - [ ] Drums
 - [ ] Harmonies
-- [ ] Noise Removal
+- [X] Noise Removal
 - [ ] Mixing
-- [ ] Actual Bass
+- [ ] Actual Bass instead of Fake Bass
 - [ ] Redo `Gtr (Chords)` Track
 - [ ] Redo second Vox (Lead) track to avoid clipping
