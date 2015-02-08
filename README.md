@@ -32,7 +32,7 @@ contact us.
 Exporting a `.wav`
 -----------------
 
-Once you have cloned the repo.  Open it up the `.aup` file in [Audacity][] and go to `File > Export`
+Once you have cloned the repo.  Open up the `Golden.aup` file in [Audacity][] and go to `File > Export`
 
 [James]: https://twitter.com/james_a_forbes  "James Forbes"
 [Drew]: https://twitter.com/JimBombony  "Drew Courtney"
